@@ -2,6 +2,8 @@
 
 This is a simple calculator based of the redux counter example app to practice the basics of react/redux.
 
+![Example](./public/calculator.png)
+
 # Getting Started with Create React App and Redux
 
 This project was made with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
